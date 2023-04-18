@@ -1,4 +1,4 @@
-import platforms from "../Data/Platforms";
+import platforms from "../Data/platforms";
 
 const usePlatforms = () => ({ data: platforms, isLoading: false, error: null });
 
